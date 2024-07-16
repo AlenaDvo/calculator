@@ -1,2 +1,2 @@
-# calculator
-First project of our study group
+# Calculator
+First project of our study group, no specific instructions.
